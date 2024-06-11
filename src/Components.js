@@ -155,7 +155,7 @@ ${props => (props.signinIn !== true ? `transform: translateX(50%);` : null)}
      top: 0;
      
      height: 100%;
-     width: 45%;
+     width: 44%;
      transform: translateX(0);
      transition: transform 0.6s ease-in-out;
  `;
